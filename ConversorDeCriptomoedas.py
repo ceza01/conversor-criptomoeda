@@ -28,11 +28,6 @@ while True:
     ui = input('Você quer continuar? [S/N] ')
     if ui.upper() != 'S':
       break
-  elif x == str:
-    print("Você digitou um valor inválido!")
-    ui = input('Você quer continuar? [S/N] ')
-    if ui.upper() != 'S':
-      break
   else:
       break
 print("Você saiu do conversor!")
